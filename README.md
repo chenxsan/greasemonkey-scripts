@@ -3,7 +3,7 @@
 ## How to install
 
 1. Click the script you want to install
-2. Click the `raw` button on the script page, it will prompt you a dialog, click the `Install` button
+2. Click the `Raw` button on the script page, it will prompt you a dialog, click the `Install` button
 
 ## scripts list
 
